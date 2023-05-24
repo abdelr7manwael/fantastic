@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+}
+
+.clear{
+    clear: both;
+}
+
+
+
+.chefs {
+    background-color: #ddd;
+    padding: 50px 0px;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+
+.title {
+    margin-bottom: 50px;
+}
+
+.title h2 {
+    font-weight: normal;
+}
+
+.title span {
+
+    color: #ce1212;
+}
+
+.title p {
+    color: #7f7f90;
+    margin-bottom: 10px;
+}
+
+.divs .person {
+    width: 24%;
+    float: left;
+    background-color: white;
+    border-radius: 5px;
+    margin: 0px 5px;
+}
+
+.divs .person img {
+    width: 100%;
+    margin-bottom: 20px;
+    border-radius: 5px 5px 0 0;
+}
+
+
+
+.divs .person .job-title {
+    font-size: 15px;
+    color: silver;
+    margin: 5px 0px;
+}
+
+.divs .person .bio {
+    padding: 20px 30px;
+    font-size: 15px;
+    font-style: italic;
+    color: rgba(33, 37, 41, 0.7);
+
+}
